@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5321C04218483F000B22D85 /* cameraML.gif in Resources */ = {isa = PBXBuildFile; fileRef = B5321C03218483F000B22D85 /* cameraML.gif */; };
 		B5B7C59E215557F7003384FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B7C59D215557F7003384FC /* AppDelegate.swift */; };
 		B5B7C5A0215557F7003384FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B7C59F215557F7003384FC /* ViewController.swift */; };
 		B5B7C5A3215557F7003384FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B7C5A1215557F7003384FC /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B5321C03218483F000B22D85 /* cameraML.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cameraML.gif; sourceTree = "<group>"; };
 		B5B7C59A215557F7003384FC /* cameraML.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cameraML.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B7C59D215557F7003384FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5B7C59F215557F7003384FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 		B5B7C591215557F7003384FC = {
 			isa = PBXGroup;
 			children = (
+				B5321C03218483F000B22D85 /* cameraML.gif */,
 				B5B7C5D3215581CC003384FC /* README.md */,
 				B5B7C59C215557F7003384FC /* cameraML */,
 				B5B7C5B4215557F9003384FC /* cameraMLTests */,
@@ -251,6 +254,7 @@
 			files = (
 				B5B7C5AB215557F8003384FC /* LaunchScreen.storyboard in Resources */,
 				B5B7C5A8215557F8003384FC /* Assets.xcassets in Resources */,
+				B5321C04218483F000B22D85 /* cameraML.gif in Resources */,
 				B5B7C5D4215581CC003384FC /* README.md in Resources */,
 				B5B7C5A3215557F7003384FC /* Main.storyboard in Resources */,
 			);
@@ -458,7 +462,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COREML_CODEGEN_LANGUAGE = Swift;
-				DEVELOPMENT_TEAM = BS6P2FQ228;
+				DEVELOPMENT_TEAM = WWP8MGH2XD;
 				INFOPLIST_FILE = cameraML/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -478,7 +482,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COREML_CODEGEN_LANGUAGE = Swift;
-				DEVELOPMENT_TEAM = BS6P2FQ228;
+				DEVELOPMENT_TEAM = WWP8MGH2XD;
 				INFOPLIST_FILE = cameraML/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
